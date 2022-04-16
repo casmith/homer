@@ -44,6 +44,6 @@ jobs:
         jenkins-url: ${{ secrets.JENKINS_URL }}
         jenkins-token: ${{ secrets.JENKINS_TOKEN }}
         user: ${{ secrets.JENKINS_USERNAME }}
-        job-path: "job/Deploy%20Component/job/master"
+        job-path: "job/DeployComponent/job/master"
         job-params: '{"component": "homer"}'
 
