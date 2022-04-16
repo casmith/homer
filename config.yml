@@ -76,7 +76,7 @@ services:
         url: "https://sonarr.kalde.in"
         target: "_blank" # optional html a tag target attribute
       - name: "Radarr"
-        logo: "assets/tools/radarr.png"
+        logo: "assets/tools/radarr.svg"
         tag: "app"
         url: "https://radarr.kalde.in"
       - name: "Lidarr"
