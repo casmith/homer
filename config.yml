@@ -80,7 +80,7 @@ services:
         tag: "app"
         url: "https://rddarr.kalde.in"
       - name: "Lidarr"
-        logo: "assets/tools/sabnzbd.png"
+        logo: "assets/tools/lidarr.svg"
         tag: "app"
         url: "https://lidarr.kalde.in"
       - name: "Flirr"
