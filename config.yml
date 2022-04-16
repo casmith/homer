@@ -100,5 +100,5 @@ services:
         logo: "assets/tools/jenkins-sm.png"
         url: "https://jenkins.kalde.in"
       - name: "Peppermint"
-        #        logo: "assets/tools/jenkins-sm.png"
+        logo: "assets/tools/peppermint.svg"
         url: "https://peppermint.kalde.in"
