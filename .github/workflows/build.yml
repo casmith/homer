@@ -39,7 +39,7 @@ jobs:
         platforms: linux/amd64,linux/arm64
 
     - name: "Deploy"
-      uses: GoldenspearLLC/build-jenkins-job@master
+      uses: casmith/build-jenkins-job@master
       with:
         jenkins-url: ${{ secrets.JENKINS_URL }}
         jenkins-token: ${{ secrets.JENKINS_TOKEN }}
