@@ -105,6 +105,7 @@ services:
     items:
       - name: "Akaunting"
         url: "https://akaunting.kalde.in"
+        logo: "assets/tools/akaunting.svg"
       - name: "Bookstack"
         url: "https://bookstack.kalde.in"
       - name: "Calibre"
